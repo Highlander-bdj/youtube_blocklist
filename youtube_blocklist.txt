@@ -1,2 +1,4 @@
 m.youtube.com
 www.youtube.com
+s.youtube.com
+youtube.com
