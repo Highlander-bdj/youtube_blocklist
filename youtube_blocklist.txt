@@ -3,4 +3,5 @@ www.youtube.com
 s.youtube.com
 youtube.com
 www.bing.com
+*.bing.com
 www.tiktok.com
